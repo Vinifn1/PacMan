@@ -1,0 +1,8 @@
+O projeto foi desenvolvido por mim Vinicius Fonseca Navarro, junto de meus colegas de equipe: GUSTAVO YUJI MEKARU, THIAGO RENAN DE LIMA
+
+A seguir irei passar a especificação do projeto: 
+- A busca em um espaço de estados é umas das técnicas utilizadas em inteligência artificial em que uma agente é capaz executar ações para modificar o seu estado.
+- Sendo assim, este projeto consiste na implementação do jogo pac-man, constituído do agente pac-man e os quatro agentes inteligentes fantasmas. 
+- A manipulação do personagem pac-man será realizada pelo jogador por meio das ações mover para cima, baixo, esquerda e direita, enquanto as movimentações dos fantasmas por meio de algoritmos de busca heurística.
+- O jogo deverá ter, no mínimo, 3 níveis, sendo cada nível possui um labirinto com formato diferente. Crie heurísticas para cada fantasma de acordo com as suas características. 
+- Aplique algoritmos de busca gulosa e A*. Fica a seu critério qual algoritmo e heurística será utilizado em cada agente, porém ambos os algoritmos dever ser usados no jogo. 
